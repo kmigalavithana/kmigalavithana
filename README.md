@@ -1,14 +1,14 @@
+```markdown
 <div align="center">
   
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Kavindu Methmal 👋
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-4D4D4D?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindu-methmal-498921275)
 
 ## 💫 About Me
 
-🎓 Computer Science Student passionate about technology  
+🎓 Computer Science Student at NSBM Green University  
 🌱 Currently learning Cloud Architecture & DevOps  
 👯 Looking to collaborate on Open Source Projects  
 🚀 Building the future, one commit at a time
@@ -33,9 +33,9 @@
 
 <div>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula)](https://github.com/your-username)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmigalavithana&show_icons=true&theme=dracula)](https://github.com/kmigalavithana)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dracula)](https://github.com/your-username)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kmigalavithana&layout=compact&theme=dracula)](https://github.com/kmigalavithana)
 
 </div>
 
@@ -43,7 +43,7 @@
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kmigalavithana&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -58,7 +58,7 @@
 ### 📫 How to reach me:
 
 - 📧 Email: your.email@domain.com
-- 💼 LinkedIn: [Your Name](your-linkedin-url)
+- 💼 LinkedIn: [Kavindu Methmal](https://www.linkedin.com/in/kavindu-methmal-498921275)
 - 🌐 Website: [your-website.com](your-website-url)
 
 ---
@@ -74,10 +74,11 @@
 
 <br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dracula)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kmigalavithana&theme=dracula)
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=kmigalavithana&color=brightgreen)
 
 </details>
 
 </div>
+``` 
