@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm K. Migalavithana 👋
+# Hi there, I'm K M Igalavithana 👋
 
 ![Full Stack Developer](https://img.shields.io/badge/Full%20Stack-Developer-blue)
 [![Profile Views](https://komarev.com/ghpvc/?username=kmigalavithana&color=brightgreen)](https://github.com/kmigalavithana)
